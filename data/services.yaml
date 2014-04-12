@@ -151,14 +151,14 @@ coined:
     <p>Convert NZD into BTC. Deposit funds online or over the counter (Kiwibank).</p>
   coins: [btc]
 
-posteb:
+bitboat:
   countries: [it]
   location: [it]
   icon: /favicon.png
-  label: PosteB.it
-  url: http://www.posteb.it/
+  label: BitBoat.net
+  url: http://www.bitboat.net/it/
   content:|
-    <p>Acquista Bitcoin con Postepay! Il sistema più veloce, economico, sicuro e anonimo per acquistare Bitcoin con Euro in Italia. Tutto automatico.</p>
+    <p>Acquista Bitcoin in tabaccheria! Il sistema più veloce, economico, sicuro e anonimo per acquistare Bitcoin con Euro in Italia. Tutto automatico.</p>
   coins: [btc]
 
 coinbase:
