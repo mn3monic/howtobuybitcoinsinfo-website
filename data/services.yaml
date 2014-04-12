@@ -10,7 +10,7 @@ bitstamp:
 cryptsy:
   icon: https://www.cryptsy.com/favicon.ico
   label: Cryptsy
-  url: https://www.cryptsy.com/
+  url: https://www.cryptsy.com/po
   content: Trade over 60 different types of cryptocurrencies.
   coins: [ALF, AMC, ANC, ARG, BQC, BTB, BTE, BTG, BUK, CAP, CGB, CLR, CMC, CRC, CSC, DGC, DMD, ELC, EMD, FRC, FRK, FST, FTC, GDC, GLC, GLD, GLX, HBN, IXC, KGC, LK7, LKY, LTC, MEC, MNC, NBL, NEC, NMC, NRB, NVC, PHS, PPC, PTS, PXC, PYC, QRK, SBC, SPT, SRC, TAG, TEK, TRC, WDC, XJO, XPM, YAC, ZET]
 
@@ -151,14 +151,14 @@ coined:
     <p>Convert NZD into BTC. Deposit funds online or over the counter (Kiwibank).</p>
   coins: [btc]
 
-posteb:
+bitboat:
   countries: [it]
   location: [it]
   icon: /favicon.png
   label: PosteB.it
-  url: http://www.posteb.it/
+  url: http://www.bitboat.net/it/
   content:|
-    <p>Acquista Bitcoin con Postepay! Il sistema più veloce, economico, sicuro e anonimo per acquistare Bitcoin con Euro in Italia. Tutto automatico.</p>
+    <p>Acquista Bitcoin in tabaccheria! Il sistema più veloce, economico, sicuro e anonimo per acquistare Bitcoin con Euro in Italia. Tutto automatico.</p>
   coins: [btc]
 
 coinbase:
